@@ -2,6 +2,8 @@
 
 电子科技大学研究生每日自动健康打卡。
 
+# 本项目已失效，[这个项目](https://github.com/xiong233/uestc_report_playwright) 暂时还活着
+
 ## 前言
 
 1、本项目将在每天早上7点半左右通过信息门户账号登陆[健康打卡系统](https://eportal.uestc.edu.cn/jkdkapp/sys/lwReportEpidemicStu/*default/index.do) 进行健康打卡。
